@@ -12,7 +12,7 @@ Este proyecto es el sitio web para una compañía de productos ecológicos, desa
 - Diseño responsivo.
 
 ## Cómo usarlo
-Puedes acceder al proyecto desde este [enlace de GitHub Pages](https://lizpaiva.github.io/landing-page/).
+Puedes acceder al proyecto desde este [enlace de GitHub Pages](https://aleja955.github.io/Eco-Store/).
 
 ## Instalación local
 1. Clona el repositorio:
